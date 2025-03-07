@@ -1,0 +1,5 @@
+Estudiante {idEstudiante = "452", entrada = 2025-03-07 01:31:04.703692693 UTC, salida = Just 2025-03-07 01:31:25.252140973 UTC}
+Estudiante {idEstudiante = "452", entrada = 2025-03-07 01:01:27.181371742 UTC, salida = Just 2025-03-07 01:31:25.252140973 UTC}
+Estudiante {idEstudiante = "5678", entrada = 2025-03-06 20:40:58.340514471 UTC, salida = Nothing}
+Estudiante {idEstudiante = "123", entrada = 2025-03-06 20:40:40.384723354 UTC, salida = Nothing}
+Estudiante {idEstudiante = "1033", entrada = 2025-03-06 20:40:35.118388384 UTC, salida = Just 2025-03-06 20:41:05.445253203 UTC}
